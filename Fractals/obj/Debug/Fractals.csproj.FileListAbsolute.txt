@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\bin\Fractals.dll
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\bin\Fractals.pdb
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\obj\Debug\Fractals.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\obj\Debug\Fractals.dll
+D:\OneDrive\Desktop\Projects\Fractals2\Fractals\Fractals\obj\Debug\Fractals.pdb
