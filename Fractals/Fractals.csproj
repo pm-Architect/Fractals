@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="BoidsComponent.cs" />
     <Compile Include="FractalsInfo.cs" />
+    <Compile Include="KochComponent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DLAComponent.cs" />
     <Compile Include="SunflowerComponent.cs" />
